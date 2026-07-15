@@ -66,3 +66,6 @@ App runs at `http://localhost:5173`, API at `http://localhost:5000`.
 | POST   | /api/chats/:id/message     | Send prompt, get Gemini reply     |
 
 All `/api/chats*` routes require `Authorization: Bearer <token>`.
+
+
+//
